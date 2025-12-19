@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What are your support hours?",
+    "answer": "Support is available Monday to Friday, 9am–6pm local time."
+  },
+  {
+    "question": "How can I reset my password?",
+    "answer": "Use the Forgot Password link on the sign-in page and follow the instructions."
+  },
+  {
+    "question": "Where can I view my invoices?",
+    "answer": "Invoices are in the Billing section of your account settings."
+  },
+  {
+    "question": "How do I contact human support?",
+    "answer": "Email support@example.com or call +1-555-0100 during support hours."
+  },
+  {
+    "question": "Do you offer refunds?",
+    "answer": "Refunds are assessed case-by-case within 30 days of purchase."
+  },
+  {
+    "question": "Is my data secure?",
+    "answer": "Data is encrypted in transit and at rest with regular audits."
+  }
+]
